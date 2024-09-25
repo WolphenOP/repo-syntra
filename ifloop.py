@@ -11,4 +11,4 @@ elif getal > 100:
 elif getal > 10:
     print(f"{getal} is groter dan 10, maar kleiner dan 100.")
 else:
-    print(f"{getal} is exact 10.")
+    print(f"{getal} is 10, niet hoger, niet lager.")
